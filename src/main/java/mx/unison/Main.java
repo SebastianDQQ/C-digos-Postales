@@ -37,4 +37,3 @@ public class Main {
         System.out.println("Número de asentamientos rurales: " + Rural);
     }
 }
-//
